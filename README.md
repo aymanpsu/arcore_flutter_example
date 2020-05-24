@@ -11,7 +11,7 @@ A new Flutter project show how example of how to use ARcore library in flutter (
 * [x] Run the code in real device
 
 
-![](https://ibb.co/M7dxJxc"Logo Title Text 1")
+![](https://ibb.co/M7dxJxc)
 
 
 [video link](https://twitter.com/Ayman_WaM/status/1261613556941959168?s=20)
