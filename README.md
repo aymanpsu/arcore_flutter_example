@@ -1,16 +1,14 @@
-# test_ar
+# arcore_flutter_example
 
-A new Flutter project.
+A new Flutter project show how example of how to use ARcore library in flutter (Android).
 
-## Getting Started
+## Plan for tasks
 
-This project is a starting point for a Flutter application.
+* [x] Install arcore_flutter_plugin from 
+[a link](https://pub.dev/packages/arcore_flutter_plugin#-readme-tab-)
+* [x] Setup Arcore configurations in andriod
+* [x] Write flutter code using ARcore plugin
+* [x] Run the code in real device
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[a link](https://twitter.com/Ayman_WaM/status/1261613556941959168?s=20)
